@@ -1,6 +1,6 @@
 console.log('Hello world!')
 
-const ws = new WebSocket('ws://localhost:8080')
+const ws = new WebSocket('wss://promising-terrijo-ai-tools-73e46580.koyeb.app')
 
 formChat.addEventListener('submit', (e) => {
     e.preventDefault()
